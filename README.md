@@ -1,5 +1,5 @@
 # Sierra Commission Tracker
-✅ Complete | 🟧 Mask in Progress | 🟦 Configration In Progress | 🟥 Untouched
+✅ Complete | 🟦 Configration In Progress | 🟧 Mask in Progress | ⬛ Identified | 🟥 Untouched
 
 ### B9
 * 🟥 CMF56 Turbofan Engine 
