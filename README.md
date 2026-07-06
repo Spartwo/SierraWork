@@ -40,6 +40,7 @@
 * 🟥 Tail Connector (3.75m)
 ##### AERODYNAMICS
 * 🟥 XM-600 1.25m Air Intake
+* 🟥 XM-800 1.25m Air Intake
 * 🟥 XM-C200 Radial Air Intake
 * 🟥 XF-104 Radial Air Intake
 * 🟥 Wing Connector Rounded Tip
