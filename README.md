@@ -2,8 +2,9 @@
 ✅ Complete | 🟦 Configration In Progress | 🟧 Mask in Progress | ⬛ Identified | 🟥 Untouched
 
 ### B9
-* ⬛ CMF56 Turbofan Engine 
-* 🟦 TFE731 Turbofan Engine
+* 🟧 CMF56 Turbofan Engine 
+* 🟧 D30F7 Turbojet Engine
+* 🟧 TFE731 Turbofan Engine
 ### SXT
 ##### ENGINES
 * ⬛ KASRE-055 "Continental" Prop Engine
@@ -77,8 +78,8 @@
 * ⬛ NIce MKseries Body WS-10B TVC Turbo engine
 ##### COCKPITS
 * ✅ Type22 cockpit with CARET Intake
-* ⬛ Type20 cockpit with DIS Intake
-* ⬛ Type35 cockpit with DSI Intake
+* 🟧 Type20 cockpit with DIS Intake
+* 🟧 Type35 cockpit with DSI Intake
 * ✅ Type57 cockpit
 ### MPR
 ##### ENGINES
