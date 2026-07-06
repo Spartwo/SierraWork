@@ -75,7 +75,8 @@
 * 🟥 NIce MKseries Body WS-10B TVC Turbo engine
 ##### COCKPITS
 * 🟥 Type22 cockpit with CARET Intake
-* 🟥 Type20 cockpit with CARET Intake
+* 🟥 Type20 cockpit with DIS Intake
+* 🟥 Type35 cockpit with DSI Intake
 * 🟥 Type57 cockpit
 ### MPR
 ##### ENGINES
@@ -91,6 +92,7 @@
 * 🟥 MPR F-104 Starfighter
 * 🟥 MPR F-14 Tomcat
 * 🟥 MPR F-16 Falcon
+* 🟥 MPR Tandem Cockpit
 
 ### MOD VERSIONS
 * B9 Aerospace Legacy Parts Pack v6.6.0
