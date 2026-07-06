@@ -3,7 +3,7 @@
 
 ### B9
 * ⬛ CMF56 Turbofan Engine 
-* ⬛ TFE731 Turbofan Engine
+* 🟦 TFE731 Turbofan Engine
 ### SXT
 ##### ENGINES
 * ⬛ KASRE-055 "Continental" Prop Engine
@@ -76,10 +76,10 @@
 * ⬛ NIce MKseries Body Product30 Turbo engine
 * ⬛ NIce MKseries Body WS-10B TVC Turbo engine
 ##### COCKPITS
-* ⬛ Type22 cockpit with CARET Intake
+* ✅ Type22 cockpit with CARET Intake
 * ⬛ Type20 cockpit with DIS Intake
 * ⬛ Type35 cockpit with DSI Intake
-* ⬛ Type57 cockpit
+* ✅ Type57 cockpit
 ### MPR
 ##### ENGINES
 * ⬛ J-12 "Cougar" Afterburning Turbofan
