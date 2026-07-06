@@ -39,19 +39,19 @@
 * 🟥 Tail Connector (2.5m)
 * 🟥 Tail Connector (3.75m)
 ##### AERODYNAMICS
-* 🟥 XM-600 1.25m Air Intake
-* 🟥 XM-800 1.25m Air Intake
-* 🟥 XM-C200 Radial Air Intake
-* 🟥 XF-104 Radial Air Intake
-* 🟥 Wing Connector Rounded Tip
-* 🟥 Elevon Mk3
-* 🟥 Elevon Mk2
-* 🟥 Elevon 0-A
-* 🟥 Elevon 0-B
-* 🟥 FAT-460 Super-Lift Aeroplane Main Wing
-* 🟥 FAT-500 Super-Lift Main Aeroplane Wing
-* 🟥 NWS-1T
-* 🟥 FAT-50 Structural Pylon
+* ⬛ XM-600 1.25m Air Intake
+* ⬛ XM-800 1.25m Air Intake
+* ⬛ XM-C200 Radial Air Intake
+* ⬛ XF-104 Radial Air Intake
+* ⬛ Wing Connector Rounded Tip
+* ⬛ Elevon Mk3
+* ⬛ Elevon Mk2
+* ⬛ Elevon 0-A
+* ⬛ Elevon 0-B
+* ⬛ FAT-460 Super-Lift Aeroplane Main Wing
+* ⬛ FAT-500 Super-Lift Main Aeroplane Wing
+* ⬛ NWS-1T
+* ⬛ FAT-50 Structural Pylon
 ### Neist
 ##### ENGINES
 * ⬛ CF6 Turbofan Jet Engine
