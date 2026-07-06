@@ -17,27 +17,27 @@
 * ⬛ KO-TP12M "Bear" Turboprop
 * ⬛ CR-9 "Lancer" Engine
 ##### COCKPITS
-* 🟥 M-86 Kossak
-* 🟥 M-95 "Goose" Cockpit
-* 🟥 Mk1-2 SST "Etente" Cockpit
-* 🟥 Model 31 "Bonny" Cockpit
-* 🟥 Model 35 "Clyde" Cockpit
-* 🟥 Model 87 "Buzzard" Cockpit
-* 🟥 Mk3 "Marble-8" Cockpit
-* 🟥 Kn-225 "Osual Payload" Cockpit
+* ⬛ M-86 Kossak
+* ⬛ M-95 "Goose" Cockpit
+* ⬛ Mk1-2 SST "Etente" Cockpit
+* ⬛ Model 31 "Bonny" Cockpit
+* ⬛ Model 35 "Clyde" Cockpit
+* ⬛ Model 87 "Buzzard" Cockpit
+* ⬛ Mk3 "Marble-8" Cockpit
+* ⬛ Kn-225 "Osual Payload" Cockpit
 ##### FUSELAGES
-* 🟥 KC-8 "Business" Passenger Cabin
-* 🟥 KC-8 "Economy" Passenger Cabin
-* 🟥 M-Hull 3.75m 'Osual' Cargo Bay
-* 🟥 M-Hull 3.75m to Mk3 Adapter Hollow
-* 🟥 Mk.P-Yavka Radial Hull
-* 🟥 Mk.P-Yavka Radial Hull End Cap
-* 🟥 Mk1 Bicoupler
-* 🟥 Mk2 10-DEG Tilted connector
-* 🟥 Mk2 Cargo Bay CRG-04B
-* 🟥 Tail Connector (0.625m)
-* 🟥 Tail Connector (2.5m)
-* 🟥 Tail Connector (3.75m)
+* ⬛ KC-8 "Business" Passenger Cabin
+* ⬛ KC-8 "Economy" Passenger Cabin
+* ⬛ M-Hull 3.75m 'Osual' Cargo Bay
+* ⬛ M-Hull 3.75m to Mk3 Adapter Hollow
+* ⬛ Mk.P-Yavka Radial Hull
+* ⬛ Mk.P-Yavka Radial Hull End Cap
+* ⬛ Mk1 Bicoupler
+* ⬛ Mk2 10-DEG Tilted connector
+* ⬛ Mk2 Cargo Bay CRG-04B
+* ⬛ Tail Connector (0.625m)
+* ⬛ Tail Connector (2.5m)
+* ⬛ Tail Connector (3.75m)
 ##### AERODYNAMICS
 * ⬛ XM-600 1.25m Air Intake
 * ⬛ XM-800 1.25m Air Intake
