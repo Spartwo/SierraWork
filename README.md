@@ -6,15 +6,16 @@
 * ⬛ TFE731 Turbofan Engine
 ### SXT
 ##### ENGINES
-* 🟥 KASRE-055 "Continental" Prop Engine
-* 🟥 KASRE-PT6 "Guthrie" Turbo-Prop
-* 🟥 KASRE-211D "Jumo" Prop Engine
-* 🟥 KASRE-66 "Merlin" Piston Aero-Engine
-* 🟥 J-04 "Swift" Basic Jet Engine
-* 🟥 J-414 "Jaguar" Afterburning Turbofan VTOL
-* 🟥 KO-213 "Wolf" Piston Aero-Engine
-* 🟥 KO-R2800 "Hornet" Piston Aero-Engine
-* 🟥 KO-TP12M "Bear" Turboprop
+* ⬛ KASRE-055 "Continental" Prop Engine
+* ⬛ KASRE-PT6 "Guthrie" Turbo-Prop
+* ⬛ KASRE-211D "Jumo" Prop Engine
+* ⬛ KASRE-66 "Merlin" Piston Aero-Engine
+* ⬛ J-04 "Swift" Basic Jet Engine
+* ⬛ J-414 "Jaguar" Afterburning Turbofan VTOL
+* ⬛ KO-213 "Wolf" Piston Aero-Engine
+* ⬛ KO-R2800 "Hornet" Piston Aero-Engine
+* ⬛ KO-TP12M "Bear" Turboprop
+* ⬛ CR-9 "Lancer" Engine
 ##### COCKPITS
 * 🟥 M-86 Kossak
 * 🟥 M-95 "Goose" Cockpit
@@ -52,20 +53,20 @@
 * 🟥 FAT-50 Structural Pylon
 ### Neist
 ##### ENGINES
-* 🟥 CF6 Turbofan Jet Engine
-* 🟥 CF34-8C
+* ⬛ CF6 Turbofan Jet Engine
+* ⬛ CF34-8C
 ##### COCKPITS
-* 🟥 Airbus A220 Cockpit
-* 🟥 Airbus A350 Cockpit
-* 🟥 Airbus A380 Cockpit
-* 🟥 Antanov An-24 Cockpit
-* 🟥 Boeing 707/727/737 Cockpit
-* 🟥 Bombardier CRJ Series Cockpit
-* 🟥 25PC 
-* 🟥 Airliner Nose Cone System Airbus A380 Variant
-* 🟥 Douglas DC3 Cockpit
-* 🟥 Douglas DC9 Cockpit
-* 🟥 Douglas DC10 Cockpit
+* ⬛ Airbus A220 Cockpit
+* ⬛ Airbus A350 Cockpit
+* ⬛ Airbus A380 Cockpit
+* ⬛ Antanov An-24 Cockpit
+* ⬛ Boeing 707/727/737 Cockpit
+* ⬛ Bombardier CRJ Series Cockpit
+* ⬛ 25PC 
+* ⬛ Airliner Nose Cone System Airbus A380 Variant
+* ⬛ Douglas DC3 Cockpit
+* ⬛ Douglas DC9 Cockpit
+* ⬛ Douglas DC10 Cockpit
 ### NMB
 ##### ENGINES
 * ⬛ NIce MKseries Body 117S Turbo engine
