@@ -5,6 +5,7 @@
 * ✅ CMF56 Turbofan Engine 
 * ✅ D30F7 Turbojet Engine
 * ✅ TFE731 Turbofan Engine
+* ✅ F119 Turbojet Engine
 ### SXT
 ##### ENGINES
 * ⬛ KASRE-055 "Continental" Prop Engine
