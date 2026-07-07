@@ -1,5 +1,5 @@
 # Sierra Commission Tracker
-✅ Complete | 🟦 Configration In Progress | 🟧 Mask in Progress | ⬛ Identified | 🟥 Untouched
+✅ Complete | 🟧 Mask in Progress | 🟦 Configration In Progress | ⬛ Identified | 🟥 Untouched
 
 ### B9
 * ✅ CMF56 Turbofan Engine 
@@ -84,19 +84,19 @@
 * ✅ Type57 cockpit
 ### MPR
 ##### ENGINES
-* ⬛ J-12 "Cougar" Afterburning Turbofan
-* ⬛ Saturn AL-41F1
-* ⬛ Saturn AL-41F1-938
-* ⬛ TFJ-222 "Talon" Afterburning Turbofan
-* ⬛ TFJ-229 "Talon" Afterburning Turbofan
-* ⬛ TFJ-229-DT-938 "Talon" Afterburning Turbofan
+* 🟧 J-12 "Cougar" Afterburning Turbofan
+* 🟧 Saturn AL-41F1
+* 🟧 Saturn AL-41F1-938
+* 🟧 TFJ-222 "Talon" Afterburning Turbofan
+* 🟧 TFJ-229 "Talon" Afterburning Turbofan
+* 🟧 TFJ-229-DT-938 "Talon" Afterburning Turbofan
 ##### COCKPITS
-* ⬛ MPR F/A-18/F Super Hornet Cockpit
-* ⬛ MPR F-100 Super Sabre (and associated intake)
-* ⬛ MPR F-104 Starfighter
-* ⬛ MPR F-14 Tomcat
-* ⬛ MPR F-16 Falcon
-* ⬛ MPR Tandem Cockpit
+* 🟧 MPR F/A-18/F Super Hornet Cockpit
+* 🟧 MPR F-100 Super Sabre (and associated intake)
+* 🟧 MPR F-104 Starfighter
+* 🟧 MPR F-14 Tomcat
+* 🟧 MPR F-16 Falcon
+* 🟧 MPR Tandem Cockpit
 
 ### MOD VERSIONS
 * B9 Aerospace Legacy Parts Pack v6.6.0
