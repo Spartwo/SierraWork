@@ -78,8 +78,8 @@
 * ⬛ NIce MKseries Body WS-10B TVC Turbo engine
 ##### COCKPITS
 * ✅ Type22 cockpit with CARET Intake
-* 🟧 Type20 cockpit with DIS Intake
-* 🟧 Type35 cockpit with DSI Intake
+* ✅ Type20 cockpit with DIS Intake
+* ✅ Type35 cockpit with DSI Intake
 * ✅ Type57 cockpit
 ### MPR
 ##### ENGINES
