@@ -2,9 +2,9 @@
 ✅ Complete | 🟦 Configration In Progress | 🟧 Mask in Progress | ⬛ Identified | 🟥 Untouched
 
 ### B9
-* 🟧 CMF56 Turbofan Engine 
-* 🟧 D30F7 Turbojet Engine
-* 🟧 TFE731 Turbofan Engine
+* ✅ CMF56 Turbofan Engine 
+* ✅ D30F7 Turbojet Engine
+* ✅ TFE731 Turbofan Engine
 ### SXT
 ##### ENGINES
 * ⬛ KASRE-055 "Continental" Prop Engine
