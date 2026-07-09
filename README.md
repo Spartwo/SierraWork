@@ -21,7 +21,7 @@
 ##### COCKPITS
 * ⬛ M-86 Kossak
 * ⬛ M-95 "Goose" Cockpit
-* ⬛ Mk1-2 SST "Etente" Cockpit
+* ✅ Mk1-2 SST "Entente" Cockpit
 * ⬛ Model 31 "Bonny" Cockpit
 * ⬛ Model 35 "Clyde" Cockpit
 * ⬛ Model 87 "Buzzard" Cockpit
