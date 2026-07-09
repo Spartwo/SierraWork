@@ -92,9 +92,9 @@
 * 🟧 TFJ-229-DT-938 "Talon" Afterburning Turbofan
 ##### COCKPITS
 * 🟧 MPR F/A-18/F Super Hornet Cockpit
-* 🟧 MPR F-100 Super Sabre (and associated intake)
+* ✅ MPR F-100 Super Sabre (and associated intake)
 * 🟧 MPR F-104 Starfighter
-* 🟧 MPR F-14 Tomcat
+* ✅ MPR F-14 Tomcat
 * 🟧 MPR F-16 Falcon
 * 🟧 MPR Tandem Cockpit
 
