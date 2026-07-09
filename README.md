@@ -84,7 +84,7 @@
 * ✅ Type57 cockpit
 ### MPR
 ##### ENGINES
-* 🟧 J-12 "Cougar" Afterburning Turbofan
+* ✅ J-12 "Cougar" Afterburning Turbofan
 * 🟧 Saturn AL-41F1
 * 🟧 Saturn AL-41F1-938
 * 🟧 TFJ-222 "Talon" Afterburning Turbofan
