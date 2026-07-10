@@ -27,6 +27,7 @@
 * 🟧 Model 87 "Buzzard" Cockpit
 * 🟧 Mk3 "Marble-8" Cockpit
 * 🟧 Kn-225 "Osual Payload" Cockpit
+* 🟥 Mk.P-Yavka Cockpit
 ##### FUSELAGES
 * 🟧 KC-8 "Business" Passenger Cabin
 * 🟧 KC-8 "Economy" Passenger Cabin
@@ -70,7 +71,7 @@
 * ✅ Douglas DC9 Cockpit
 * ✅ Douglas DC10 Cockpit
 ##### FUSELAGES
-* ✅ PC Cabins
+* 🟥 PC Series Cabins
 ##### AERODYNAMICS
 * ✅ NWS-1T
 ### NMB
