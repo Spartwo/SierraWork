@@ -63,6 +63,7 @@
 * 🟧 Airbus A380 Cockpit
 * 🟧 Antanov An-24 Cockpit
 * 🟧 Boeing 707/727/737 Cockpit
+* 🟧 Boeing 767/777 Cockpit
 * 🟧 Bombardier CRJ Series Cockpit
 * 🟧 Airliner Nose Cone System Airbus A380 Variant
 * 🟧 Douglas DC3 Cockpit
