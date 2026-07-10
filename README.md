@@ -55,21 +55,21 @@
 * 🟧 FAT-50 Structural Pylon
 ### Neist
 ##### ENGINES
-* 🟦 CF6 Turbofan Jet Engine
-* 🟦 CF34-8C
+* 🟧 CF6 Turbofan Jet Engine
+* 🟧 CF34-8C
 ##### COCKPITS
-* 🟦 Airbus A220 Cockpit
-* 🟦 Airbus A350 Cockpit
-* 🟦 Airbus A380 Cockpit
-* 🟦 Antanov An-24 Cockpit
-* 🟦 Boeing 707/727/737 Cockpit
-* 🟦 Bombardier CRJ Series Cockpit
-* 🟦 Airliner Nose Cone System Airbus A380 Variant
-* 🟦 Douglas DC3 Cockpit
-* 🟦 Douglas DC9 Cockpit
-* 🟦 Douglas DC10 Cockpit
+* 🟧 Airbus A220 Cockpit
+* 🟧 Airbus A350 Cockpit
+* 🟧 Airbus A380 Cockpit
+* 🟧 Antanov An-24 Cockpit
+* 🟧 Boeing 707/727/737 Cockpit
+* 🟧 Bombardier CRJ Series Cockpit
+* 🟧 Airliner Nose Cone System Airbus A380 Variant
+* 🟧 Douglas DC3 Cockpit
+* 🟧 Douglas DC9 Cockpit
+* 🟧 Douglas DC10 Cockpit
 ##### FUSELAGES
-* 🟦 PC Cabins
+* 🟧 PC Cabins
 ##### AERODYNAMICS
 * ✅ NWS-1T
 ### NMB
