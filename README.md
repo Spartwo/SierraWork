@@ -71,6 +71,10 @@
 * ✅ Douglas DC10 Cockpit
 ##### FUSELAGES
 * 🟥 PC Series Cabins
+* 🟥 PD Series Ramps
+* 🟥 CB Series Payload
+* 🟧 Conformal Tanks
+* 🟧 A lot of adapters
 ##### AERODYNAMICS
 * ✅ Airliner Nose Cone System
 * ✅ NWS-1T
