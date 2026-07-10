@@ -66,13 +66,13 @@
 * ✅ Boeing 707/727/737 Cockpit
 * ✅ Boeing 767/777 Cockpit
 * ✅ Bombardier CRJ Series Cockpit
-* ✅ Airliner Nose Cone System Airbus A380 Variant
 * ✅ Douglas DC3 Cockpit
 * ✅ Douglas DC9 Cockpit
 * ✅ Douglas DC10 Cockpit
 ##### FUSELAGES
 * 🟥 PC Series Cabins
 ##### AERODYNAMICS
+* ✅ Airliner Nose Cone System
 * ✅ NWS-1T
 ### NMB
 ##### ENGINES
