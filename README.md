@@ -68,6 +68,7 @@
 * 🟦 Douglas DC3 Cockpit
 * 🟦 Douglas DC9 Cockpit
 * 🟦 Douglas DC10 Cockpit
+##### FUSELAGES
 * 🟦 PC Cabins
 ##### AERODYNAMICS
 * ✅ NWS-1T
