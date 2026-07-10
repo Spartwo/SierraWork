@@ -64,13 +64,13 @@
 * 🟦 Antanov An-24 Cockpit
 * 🟦 Boeing 707/727/737 Cockpit
 * 🟦 Bombardier CRJ Series Cockpit
-* 🟦 25PC 
 * 🟦 Airliner Nose Cone System Airbus A380 Variant
 * 🟦 Douglas DC3 Cockpit
 * 🟦 Douglas DC9 Cockpit
 * 🟦 Douglas DC10 Cockpit
+* 🟦 PC Cabins
 ##### AERODYNAMICS
-* 🟦 NWS-1T
+* ✅ NWS-1T
 ### NMB
 ##### ENGINES
 * ✅ NIce MKseries Body 117S Turbo engine
