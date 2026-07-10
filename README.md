@@ -52,7 +52,6 @@
 * ✅ Elevon 0-B
 * ✅ FAT-460 Super-Lift Aeroplane Main Wing
 * ✅ FAT-500 Super-Lift Main Aeroplane Wing
-* 🟧 NWS-1T
 * 🟧 FAT-50 Structural Pylon
 ### Neist
 ##### ENGINES
@@ -70,6 +69,8 @@
 * 🟦 Douglas DC3 Cockpit
 * 🟦 Douglas DC9 Cockpit
 * 🟦 Douglas DC10 Cockpit
+##### AERODYNAMICS
+* 🟦 NWS-1T
 ### NMB
 ##### ENGINES
 * ✅ NIce MKseries Body 117S Turbo engine
