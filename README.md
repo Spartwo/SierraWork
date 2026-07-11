@@ -8,45 +8,41 @@
 * ✅ F119 Turbojet Engine
 ### SXT
 ##### ENGINES
+* ✅ J-04 "Swift" Basic Jet Engine
 * 🟧 KASRE-055 "Continental" Prop Engine
 * 🟧 KASRE-PT6 "Guthrie" Turbo-Prop
 * 🟧 KASRE-211D "Jumo" Prop Engine
 * 🟧 KASRE-66 "Merlin" Piston Aero-Engine
-* ✅ J-04 "Swift" Basic Jet Engine
 * 🟧 J-414 "Jaguar" Afterburning Turbofan VTOL
 * 🟧 KO-213 "Wolf" Piston Aero-Engine
 * 🟧 KO-R2800 "Hornet" Piston Aero-Engine
 * 🟧 KO-TP12M "Bear" Turboprop
 * 🟧 CR-9 "Lancer" Engine
 ##### COCKPITS
-* 🟧 M-86 Kossak
 * ✅ M-95 "Goose" Cockpit
 * ✅ Mk1-2 SST "Entente" Cockpit
 * ✅ Model 31 "Bonny" Cockpit
 * ✅ Model 35 "Clyde" Cockpit
 * ✅ Model 87 "Buzzard" Cockpit
 * ✅ Mk3 "Marble-8" Cockpit
+* 🟧 M-86 Kossak
 * 🟧 Kn-225 "Osual Payload" Cockpit
+* 🟧 Mk.P "Yavka" Cockpit
 * 🟧 Eas-316 "Meadowlark" Cockpit
-* ⬛ Mk.P-Yavka Cockpit
 ##### FUSELAGES
-* 🟧 KC-8 "Business" Passenger Cabin
-* 🟧 KC-8 "Economy" Passenger Cabin
+* ✅ Mk2 10-DEG Tilted connector
+* ✅ Mk2 Cargo Bay CRG-04B
 * ✅ M-Hull 3.75m 'Osual' Cargo Bay
 * ✅ M-Hull 3.75m to Mk3 Adapter Hollow
 * 🟧 Mk.P-Yavka Radial Hull
 * 🟧 Mk.P-Yavka Radial Hull End Cap
 * 🟧 Mk1 Bicoupler
-* ✅ Mk2 10-DEG Tilted connector
-* ✅ Mk2 Cargo Bay CRG-04B
+* 🟧 KC-8 "Business" Passenger Cabin
+* 🟧 KC-8 "Economy" Passenger Cabin
 * 🟧 Tail Connector (0.625m)
 * 🟧 Tail Connector (2.5m)
 * 🟧 Tail Connector (3.75m)
 ##### AERODYNAMICS
-* 🟧 XM-600 1.25m Air Intake
-* 🟧 XM-800 1.25m Air Intake
-* 🟧 XM-C200 Radial Air Intake
-* 🟧 XF-104 Radial Air Intake
 * ✅ Wing Connector Rounded Tip
 * ✅ Elevon Mk3
 * ✅ Elevon Mk2
@@ -54,6 +50,10 @@
 * ✅ Elevon 0-B
 * ✅ FAT-460 Super-Lift Aeroplane Main Wing
 * ✅ FAT-500 Super-Lift Main Aeroplane Wing
+* 🟧 XM-600 1.25m Air Intake
+* 🟧 XM-800 1.25m Air Intake
+* 🟧 XM-C200 Radial Air Intake
+* 🟧 XF-104 Radial Air Intake
 * 🟧 FAT-50 Structural Pylon
 ### Neist
 ##### ENGINES
