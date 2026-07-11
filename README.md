@@ -27,13 +27,15 @@
 * ✅ Mk3 "Marble-8" Cockpit
 * ✅ Eas-316 "Meadowlark" Cockpit
 * ✅ M-86 Kossak
-* 🟧 Kn-225 "Osual Payload" Cockpit
-* 🟧 Mk.P "Yavka" Cockpit
+* ✅ Kn-225 "Osual Payload" Cockpit
+* ✅ Mk.P "Yavka" Cockpit
 ##### FUSELAGES
 * ✅ Mk2 10-DEG Tilted connector
-* ✅ Mk2 Cargo Bay CRG-04B
+* ✅ Mk2 22.5-DEG Tilted connector
+* ✅ Mk2 SAS connector
 * ✅ M-Hull 3.75m 'Osual' Cargo Bay
 * ✅ M-Hull 3.75m to Mk3 Adapter Hollow
+* ✅ Mk2 Cargo Bay CRG-04B
 * 🟧 Mk.P-Yavka Radial Hull
 * 🟧 Mk.P-Yavka Radial Hull End Cap
 * 🟧 Mk1 Bicoupler
