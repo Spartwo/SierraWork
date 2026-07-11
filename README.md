@@ -56,8 +56,8 @@
 * 🟧 FAT-50 Structural Pylon
 ### Neist
 ##### ENGINES
-* 🟧 CF6 Turbofan Jet Engine
-* 🟧 CF34-8C
+* ✅ CF6 Turbofan Jet Engine
+* ✅ CF34-8C
 ##### COCKPITS
 * ✅ Airbus A220 Cockpit
 * ✅ Airbus A350 Cockpit
@@ -70,13 +70,14 @@
 * ✅ Douglas DC9 Cockpit
 * ✅ Douglas DC10 Cockpit
 ##### FUSELAGES
-* 🟥 PC Series Cabins
-* 🟥 PD Series Ramps
-* 🟥 CB Series Payload
-* 🟧 Conformal Tanks
-* 🟧 A lot of adapters
+* ✅ PC Series Cabins
+* ✅ PD Series Ramps
+* ✅ CB Series Payload
+* ✅ Conformal Tanks
+* ✅ A lot of adapters
 ##### AERODYNAMICS
 * ✅ Airliner Nose Cone System
+* ✅ CurvedTail
 * ✅ NWS-1T
 ### NMB
 ##### ENGINES
