@@ -26,7 +26,7 @@
 * ✅ Model 87 "Buzzard" Cockpit
 * ✅ Mk3 "Marble-8" Cockpit
 * ✅ Eas-316 "Meadowlark" Cockpit
-* 🟧 M-86 Kossak
+* ✅ M-86 Kossak
 * 🟧 Kn-225 "Osual Payload" Cockpit
 * 🟧 Mk.P "Yavka" Cockpit
 ##### FUSELAGES
