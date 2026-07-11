@@ -20,18 +20,19 @@
 * 🟧 CR-9 "Lancer" Engine
 ##### COCKPITS
 * 🟧 M-86 Kossak
-* 🟧 M-95 "Goose" Cockpit
+* ✅ M-95 "Goose" Cockpit
 * ✅ Mk1-2 SST "Entente" Cockpit
-* 🟧 Model 31 "Bonny" Cockpit
-* 🟧 Model 35 "Clyde" Cockpit
-* 🟧 Model 87 "Buzzard" Cockpit
-* 🟧 Mk3 "Marble-8" Cockpit
+* ✅ Model 31 "Bonny" Cockpit
+* ✅ Model 35 "Clyde" Cockpit
+* ✅ Model 87 "Buzzard" Cockpit
+* ✅ Mk3 "Marble-8" Cockpit
 * 🟧 Kn-225 "Osual Payload" Cockpit
-* 🟥 Mk.P-Yavka Cockpit
+* 🟧 Eas-316 "Meadowlark" Cockpit
+* ⬛ Mk.P-Yavka Cockpit
 ##### FUSELAGES
 * 🟧 KC-8 "Business" Passenger Cabin
 * 🟧 KC-8 "Economy" Passenger Cabin
-* 🟧 M-Hull 3.75m 'Osual' Cargo Bay
+* ✅ M-Hull 3.75m 'Osual' Cargo Bay
 * ✅ M-Hull 3.75m to Mk3 Adapter Hollow
 * 🟧 Mk.P-Yavka Radial Hull
 * 🟧 Mk.P-Yavka Radial Hull End Cap
