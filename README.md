@@ -36,8 +36,11 @@
 * ✅ M-Hull 3.75m 'Osual' Cargo Bay
 * ✅ M-Hull 3.75m to Mk3 Adapter Hollow
 * ✅ Mk2 Cargo Bay CRG-04B
-* 🟧 Mk.P-Yavka Radial Hull
-* 🟧 Mk.P-Yavka Radial Hull End Cap
+* ✅ Mk.P-Yavka Radial Hull
+* ✅ Mk.P-Yavka Radial Hull End Cap
+* ✅ Liquid Fuel Tank (2.5m)
+* ✅ Short Liquid Fuel Tank (2.5m)
+* ✅ 2.5m to 3.75m Kossak
 * 🟧 Mk1 Bicoupler
 * 🟧 KC-8 "Business" Passenger Cabin
 * 🟧 KC-8 "Economy" Passenger Cabin
@@ -56,7 +59,9 @@
 * 🟧 XM-800 1.25m Air Intake
 * 🟧 XM-C200 Radial Air Intake
 * 🟧 XF-104 Radial Air Intake
+* 🟧 XM-1600 2.5m Air Intake
 * 🟧 FAT-50 Structural Pylon
+* 🟧 FAT-25 Structural Pylon
 ### Neist
 ##### ENGINES
 * ✅ CF6 Turbofan Jet Engine
