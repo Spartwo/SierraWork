@@ -60,8 +60,8 @@
 * 🟧 XM-C200 Radial Air Intake
 * 🟧 XF-104 Radial Air Intake
 * 🟧 XM-1600 2.5m Air Intake
-* 🟧 FAT-50 Structural Pylon
-* 🟧 FAT-25 Structural Pylon
+* ✅ FAT-50 Structural Pylon
+* ✅ FAT-25 Structural Pylon
 ### Neist
 ##### ENGINES
 * ✅ CF6 Turbofan Jet Engine
