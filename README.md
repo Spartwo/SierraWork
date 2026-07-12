@@ -11,13 +11,13 @@
 * ✅ J-04 "Swift" Basic Jet Engine
 * ✅ J-414 "Jaguar" Afterburning Turbofan VTOL
 * ✅ CR-9 "Lancer" Engine
-* 🟧 KASRE-055 "Continental" Prop Engine
-* 🟧 KASRE-PT6 "Guthrie" Turbo-Prop
+* ✅ KASRE-PT6 "Guthrie" Turbo-Prop
+* ✅ KASRE-66 "Merlin" Piston Aero-Engine
+* ✅ KO-R2800 "Hornet" Piston Aero-Engine
+* ✅ KO-TP12M "Bear" Turboprop
 * 🟧 KASRE-211D "Jumo" Prop Engine
-* 🟧 KASRE-66 "Merlin" Piston Aero-Engine
 * 🟧 KO-213 "Wolf" Piston Aero-Engine
-* 🟧 KO-R2800 "Hornet" Piston Aero-Engine
-* 🟧 KO-TP12M "Bear" Turboprop
+* 🟧 KASRE-055 "Continental" Prop Engine
 ##### COCKPITS
 * ✅ M-95 "Goose" Cockpit
 * ✅ Mk1-2 SST "Entente" Cockpit
