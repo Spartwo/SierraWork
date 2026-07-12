@@ -26,22 +26,27 @@
 * ✅ Model 87 "Buzzard" Cockpit
 * ✅ Mk3 "Marble-8" Cockpit
 * ✅ Eas-316 "Meadowlark" Cockpit
-* 🟧 M-86 Kossak
-* 🟧 Kn-225 "Osual Payload" Cockpit
-* 🟧 Mk.P "Yavka" Cockpit
+* ✅ M-86 Kossak
+* ✅ Kn-225 "Osual Payload" Cockpit
+* ✅ Mk.P "Yavka" Cockpit
 ##### FUSELAGES
 * ✅ Mk2 10-DEG Tilted connector
-* ✅ Mk2 Cargo Bay CRG-04B
+* ✅ Mk2 22.5-DEG Tilted connector
+* ✅ Mk2 SAS connector
 * ✅ M-Hull 3.75m 'Osual' Cargo Bay
 * ✅ M-Hull 3.75m to Mk3 Adapter Hollow
-* 🟧 Mk.P-Yavka Radial Hull
-* 🟧 Mk.P-Yavka Radial Hull End Cap
-* 🟧 Mk1 Bicoupler
-* 🟧 KC-8 "Business" Passenger Cabin
-* 🟧 KC-8 "Economy" Passenger Cabin
-* 🟧 Tail Connector (0.625m)
-* 🟧 Tail Connector (2.5m)
-* 🟧 Tail Connector (3.75m)
+* ✅ Mk2 Cargo Bay CRG-04B
+* ✅ Mk.P-Yavka Radial Hull
+* ✅ Mk.P-Yavka Radial Hull End Cap
+* ✅ Liquid Fuel Tank (2.5m)
+* ✅ Short Liquid Fuel Tank (2.5m)
+* ✅ 2.5m to 3.75m Kossak
+* ✅ Mk1 Bicoupler
+* ✅ Tail Connector (0.625m)
+* ✅ Tail Connector (2.5m)
+* ✅ Tail Connector (3.75m)
+* ✅ KC-8 "Business" Passenger Cabin
+* ✅ KC-8 "Economy" Passenger Cabin
 ##### AERODYNAMICS
 * ✅ Wing Connector Rounded Tip
 * ✅ Elevon Mk3
@@ -54,7 +59,9 @@
 * 🟧 XM-800 1.25m Air Intake
 * 🟧 XM-C200 Radial Air Intake
 * 🟧 XF-104 Radial Air Intake
-* 🟧 FAT-50 Structural Pylon
+* 🟧 XM-1600 2.5m Air Intake
+* ✅ FAT-50 Structural Pylon
+* ✅ FAT-25 Structural Pylon
 ### Neist
 ##### ENGINES
 * ✅ CF6 Turbofan Jet Engine
