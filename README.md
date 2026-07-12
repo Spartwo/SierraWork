@@ -45,8 +45,8 @@
 * ✅ Tail Connector (0.625m)
 * ✅ Tail Connector (2.5m)
 * ✅ Tail Connector (3.75m)
-* 🟧 KC-8 "Business" Passenger Cabin
-* 🟧 KC-8 "Economy" Passenger Cabin
+* ✅ KC-8 "Business" Passenger Cabin
+* ✅ KC-8 "Economy" Passenger Cabin
 ##### AERODYNAMICS
 * ✅ Wing Connector Rounded Tip
 * ✅ Elevon Mk3
