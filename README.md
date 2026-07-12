@@ -41,7 +41,7 @@
 * ✅ Liquid Fuel Tank (2.5m)
 * ✅ Short Liquid Fuel Tank (2.5m)
 * ✅ 2.5m to 3.75m Kossak
-* 🟧 Mk1 Bicoupler
+* ✅ Mk1 Bicoupler
 * 🟧 KC-8 "Business" Passenger Cabin
 * 🟧 KC-8 "Economy" Passenger Cabin
 * 🟧 Tail Connector (0.625m)
