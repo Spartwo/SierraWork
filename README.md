@@ -11,13 +11,13 @@
 * ✅ J-04 "Swift" Basic Jet Engine
 * ✅ J-414 "Jaguar" Afterburning Turbofan VTOL
 * ✅ CR-9 "Lancer" Engine
-* 🟧 KASRE-PT6 "Guthrie" Turbo-Prop
-* 🟧 KASRE-66 "Merlin" Piston Aero-Engine
-* 🟧 KASRE-211D "Jumo" Prop Engine
-* 🟧 KO-R2800 "Hornet" Piston Aero-Engine
-* 🟧 KO-TP12M "Bear" Turboprop
-* 🟧 KO-213 "Wolf" Piston Aero-Engine
-* 🟧 KASRE-055 "Continental" Prop Engine
+* ✅ KASRE-055 "Continental" Prop Engine
+* ✅ KASRE-PT6 "Guthrie" Turbo-Prop
+* ✅ KASRE-211D "Jumo" Prop Engine
+* ✅ KASRE-66 "Merlin" Piston Aero-Engine
+* ✅ KO-213 "Wolf" Piston Aero-Engine
+* ✅ KO-R2800 "Hornet" Piston Aero-Engine
+* ✅ KO-TP12M "Bear" Turboprop
 ##### COCKPITS
 * ✅ M-95 "Goose" Cockpit
 * ✅ Mk1-2 SST "Entente" Cockpit
@@ -55,13 +55,13 @@
 * ✅ Elevon 0-B
 * ✅ FAT-460 Super-Lift Aeroplane Main Wing
 * ✅ FAT-500 Super-Lift Main Aeroplane Wing
-* 🟧 XM-600 1.25m Air Intake
-* 🟧 XM-800 1.25m Air Intake
-* 🟧 XM-C200 Radial Air Intake
-* 🟧 XF-104 Radial Air Intake
-* 🟧 XM-1600 2.5m Air Intake
+* ✅ XM-C200 Radial Air Intake
+* ✅ XF-104 Radial Air Intake
 * ✅ FAT-50 Structural Pylon
 * ✅ FAT-25 Structural Pylon
+* 🟧 XM-600 1.25m Air Intake
+* 🟧 XM-800 1.25m Air Intake
+* 🟧 XM-1600 2.5m Air Intake
 ### Neist
 ##### ENGINES
 * ✅ CF6 Turbofan Jet Engine
