@@ -42,11 +42,11 @@
 * ✅ Short Liquid Fuel Tank (2.5m)
 * ✅ 2.5m to 3.75m Kossak
 * ✅ Mk1 Bicoupler
+* ✅ Tail Connector (0.625m)
+* ✅ Tail Connector (2.5m)
+* ✅ Tail Connector (3.75m)
 * 🟧 KC-8 "Business" Passenger Cabin
 * 🟧 KC-8 "Economy" Passenger Cabin
-* 🟧 Tail Connector (0.625m)
-* 🟧 Tail Connector (2.5m)
-* 🟧 Tail Connector (3.75m)
 ##### AERODYNAMICS
 * ✅ Wing Connector Rounded Tip
 * ✅ Elevon Mk3
