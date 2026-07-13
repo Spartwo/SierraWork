@@ -61,7 +61,7 @@
 * ✅ FAT-25 Structural Pylon
 * ✅ XM-600 1.25m Air Intake
 * ✅ XM-800 1.25m Air Intake
-* 🟧 XM-1600 2.5m Air Intake
+* ✅ XM-1600 2.5m Air Intake
 ### Neist
 ##### ENGINES
 * ✅ CF6 Turbofan Jet Engine
