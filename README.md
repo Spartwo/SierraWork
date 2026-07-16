@@ -122,3 +122,6 @@
 * SXTContinued v0.3.31.1
 * Nice MKseries Body v3.9
 * Neist Air Reupdated P9.2
+
+
+These configs are produced under a CC-BY-SA liscence.
