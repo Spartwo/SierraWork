@@ -13,8 +13,8 @@
 * ⬛ KO-TP12M "Bear" Turboprop
 ### Neist
 ##### Engines
-* 🟥 CF6 Turbofan Jet Engine
-* 🟥 CF34-8C
+* ⬛ CF6 Turbofan Jet Engine
+* ⬛ CF34-8C
 ### NMB
 ##### Engines
 * ⬛ NIce MKseries Body 117S Turbo engine
@@ -24,7 +24,7 @@
 * ⬛ NIce MKseries Body WS-10B TVC Turbo engine
 ### Moderately Plane Related
 ##### Engines
-* 🟥 J-12 "Cougar" Afterburning Turbofan
+* ⬛ J-12 "Cougar" Afterburning Turbofan
 * ⬛ Saturn AL-41F1
 * ⬛ Saturn AL-41F1-938
 * ⬛ TFJ-222 "Talon" Afterburning Turbofan
@@ -36,11 +36,11 @@
 ### Airplane Plus
 ##### Engines
 * ⬛ J-119 "Cheetah" Afterburning Tubofan
-* 🟥 J-34 "Chevron" High-Bypass Turbofan Engine
-* 🟥 J-56 "Lotus" High-Bypass Turbofan Engine
+* ⬛ J-34 "Chevron" High-Bypass Turbofan Engine
+* ⬛ J-56 "Lotus" High-Bypass Turbofan Engine
 * ⬛ J-85 "Tiger" Afterburning Turbofan
 * 🟥 KT6A "Kitty" Turboprop Engine
-* 🟥 KT6C "Kitty" Turboshaft Engine
+* ⬛ KT6C "Kitty" Turboshaft Engine
 ### Mk3 Expansion
 ##### Engines
 ▪ ⬛ JE-8 'Buffalo' Turbofan Engine
