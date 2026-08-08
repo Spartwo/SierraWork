@@ -20,6 +20,7 @@
 * 🟥 NIce MKseries Body 117S Turbo engine
 * 🟥 NIce MKseries Body F-414 Turbo engine
 * 🟥 NIce MKseries Body F-415 Turbo engine
+* 🟥 NIce MKseries Body WS-10B TVC Turbo engine
 ### Moderately Plane Related
 ##### Engines
 * 🟥 J-12 "Cougar" Afterburning Turbofan
