@@ -5,7 +5,7 @@
 ##### Engines
 * 🟥 CMF56 Turbofan Engine
 * 🟥 TFE731 Turbofan Engine
-* 🟥 SXT
+### SXT
 ##### Engines
 * 🟥 KASRE-PT6 "Guthrie" Turbo-Prop
 * 🟥 J-04 "Swift" Basic Jet Engine
