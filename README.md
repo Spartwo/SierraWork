@@ -1,47 +1,47 @@
-# Sierra Commission Tracker
+# Sierra Commission 2 Tracker
 ✅ Complete | 🟧 Plume in Progress | ⬛ Identified | 🟥 Untouched
 
 ### B9
 ##### Engines
-* CMF56 Turbofan Engine
-* TFE731 Turbofan Engine
-* SXT
+* 🟥 CMF56 Turbofan Engine
+* 🟥 TFE731 Turbofan Engine
+* 🟥 SXT
 ##### Engines
-* KASRE-PT6 "Guthrie" Turbo-Prop
-* J-04 "Swift" Basic Jet Engine
-* J-414 "Jaguar" Afterburning Turbofan VTOL
-* KO-TP12M "Bear" Turboprop
+* 🟥 KASRE-PT6 "Guthrie" Turbo-Prop
+* 🟥 J-04 "Swift" Basic Jet Engine
+* 🟥 J-414 "Jaguar" Afterburning Turbofan VTOL
+* 🟥 KO-TP12M "Bear" Turboprop
 ### Neist
 ##### Engines
-* CF6 Turbofan Jet Engine
-* CF34-8C
+* 🟥 CF6 Turbofan Jet Engine
+* 🟥 CF34-8C
 ### NMB
 ##### Engines
-* NIce MKseries Body 117S Turbo engine
-* NIce MKseries Body F-414 Turbo engine
-* NIce MKseries Body F-415 Turbo engine
+* 🟥 NIce MKseries Body 117S Turbo engine
+* 🟥 NIce MKseries Body F-414 Turbo engine
+* 🟥 NIce MKseries Body F-415 Turbo engine
 ### Moderately Plane Related
 ##### Engines
-* J-12 "Cougar" Afterburning Turbofan
-* Saturn AL-41F1
-* Saturn AL-41F1-938
-* TFJ-222 "Talon" Afterburning Turbofan
-* TFJ-229 "Talon" Afterburning Turbofan
-* TFJ-229-DT-938 "Talon" Afterburning Turbofan
+* 🟥 J-12 "Cougar" Afterburning Turbofan
+* 🟥 Saturn AL-41F1
+* 🟥 Saturn AL-41F1-938
+* 🟥 TFJ-222 "Talon" Afterburning Turbofan
+* 🟥 TFJ-229 "Talon" Afterburning Turbofan
+* 🟥 TFJ-229-DT-938 "Talon" Afterburning Turbofan
 ### AoATech
 ##### Engines
-* MK22-V Afterburning Turbofan Engine
+* 🟥 MK22-V Afterburning Turbofan Engine
 ### Airplane Plus
 ##### Engines
-* J-119 "Cheetah" Afterburning Tubofan
-* J-34 "Chevron" High-Bypass Turbofan Engine
-* J-56 "Lotus" High-Bypass Turbofan Engine
-* J-85 "Tiger" Afterburning Turbofan
-* KT6A "Kitty" Turboprop Engine
-* KT6C "Kitty" Turboshaft Engine
+* 🟥 J-119 "Cheetah" Afterburning Tubofan
+* 🟥 J-34 "Chevron" High-Bypass Turbofan Engine
+* 🟥 J-56 "Lotus" High-Bypass Turbofan Engine
+* 🟥 J-85 "Tiger" Afterburning Turbofan
+* 🟥 KT6A "Kitty" Turboprop Engine
+* 🟥 KT6C "Kitty" Turboshaft Engine
 ### Mk3 Expansion
 ##### Engines
-▪ JE-8 'Buffalo' Turbofan Engine
+▪ 🟥 JE-8 'Buffalo' Turbofan Engine
 
 # Sierra Commission Tracker
 ✅ Complete | 🟧 Mask in Progress | 🟦 Configration In Progress | ⬛ Identified | 🟥 Untouched
