@@ -3,13 +3,13 @@
 
 ### B9
 ##### Engines
-* ⬛ CMF56 Turbofan Engine
+* ✅ CMF56 Turbofan Engine
 * ✅ TFE731 Turbofan Engine
 ### SXT
 ##### Engines
 * ⬛ KASRE-PT6 "Guthrie" Turbo-Prop
-* ⬛ J-04 "Swift" Basic Jet Engine
-* ⬛ J-414 "Jaguar" Afterburning Turbofan VTOL
+* 🟧 J-04 "Swift" Basic Jet Engine
+* ✅ J-414 "Jaguar" Afterburning Turbofan VTOL
 * ⬛ KO-TP12M "Bear" Turboprop
 ### Neist
 ##### Engines
@@ -36,8 +36,8 @@
 ### Airplane Plus
 ##### Engines
 * ✅ J-119 "Cheetah" Afterburning Tubofan
-* ⬛ J-34 "Chevron" High-Bypass Turbofan Engine
-* ⬛ J-56 "Lotus" High-Bypass Turbofan Engine
+* ✅ J-34 "Chevron" High-Bypass Turbofan Engine
+* ✅ J-56 "Lotus" High-Bypass Turbofan Engine
 * ✅ J-85 "Tiger" Afterburning Turbofan
 * 🟥 KT6A "Kitty" Turboprop Engine
 * ⬛ KT6C "Kitty" Turboshaft Engine
