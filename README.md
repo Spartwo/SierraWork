@@ -13,8 +13,8 @@
 * ⬛ KO-TP12M "Bear" Turboprop
 ### Neist
 ##### Engines
-* ⬛ CF6 Turbofan Jet Engine
-* ⬛ CF34-8C
+* ✅ CF6 Turbofan Jet Engine
+* ✅ CF34-8C
 ### NMB
 ##### Engines
 * ⬛ NIce MKseries Body 117S Turbo engine
