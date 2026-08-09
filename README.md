@@ -4,7 +4,7 @@
 ### B9
 ##### Engines
 * ⬛ CMF56 Turbofan Engine
-* ⬛ TFE731 Turbofan Engine
+* ✅ TFE731 Turbofan Engine
 ### SXT
 ##### Engines
 * ⬛ KASRE-PT6 "Guthrie" Turbo-Prop
@@ -32,18 +32,18 @@
 * ⬛ TFJ-229-DT-938 "Talon" Afterburning Turbofan
 ### AoATech
 ##### Engines
-* ⬛ MK22-V Afterburning Turbofan Engine
+* ✅ MK22-V Afterburning Turbofan Engine
 ### Airplane Plus
 ##### Engines
-* ⬛ J-119 "Cheetah" Afterburning Tubofan
+* ✅ J-119 "Cheetah" Afterburning Tubofan
 * ⬛ J-34 "Chevron" High-Bypass Turbofan Engine
 * ⬛ J-56 "Lotus" High-Bypass Turbofan Engine
-* ⬛ J-85 "Tiger" Afterburning Turbofan
+* ✅ J-85 "Tiger" Afterburning Turbofan
 * 🟥 KT6A "Kitty" Turboprop Engine
 * ⬛ KT6C "Kitty" Turboshaft Engine
 ### Mk3 Expansion
 ##### Engines
-▪ ⬛ JE-8 'Buffalo' Turbofan Engine
+▪ ✅ JE-8 'Buffalo' Turbofan Engine
 
 # Sierra Commission Tracker
 ✅ Complete | 🟧 Mask in Progress | 🟦 Configration In Progress | ⬛ Identified | 🟥 Untouched
