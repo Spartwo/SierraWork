@@ -27,9 +27,9 @@
 * ⬛ J-12 "Cougar" Afterburning Turbofan
 * ⬛ Saturn AL-41F1
 * ⬛ Saturn AL-41F1-938
-* ⬛ TFJ-222 "Talon" Afterburning Turbofan
-* ⬛ TFJ-229 "Talon" Afterburning Turbofan
-* ⬛ TFJ-229-DT-938 "Talon" Afterburning Turbofan
+* ✅ TFJ-222 "Talon" Afterburning Turbofan
+* ✅ TFJ-229 "Talon" Afterburning Turbofan
+* ✅ TFJ-229-DT-938 "Talon" Afterburning Turbofan
 ### AoATech
 ##### Engines
 * ✅ MK22-V Afterburning Turbofan Engine
@@ -40,7 +40,7 @@
 * ✅ J-56 "Lotus" High-Bypass Turbofan Engine
 * ✅ J-85 "Tiger" Afterburning Turbofan
 * 🟥 KT6A "Kitty" Turboprop Engine
-* ⬛ KT6C "Kitty" Turboshaft Engine
+* ✅ KT6C "Kitty" Turboshaft Engine
 ### Mk3 Expansion
 ##### Engines
 ▪ ✅ JE-8 'Buffalo' Turbofan Engine
