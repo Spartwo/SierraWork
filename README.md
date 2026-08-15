@@ -8,7 +8,7 @@
 ### SXT
 ##### Engines
 * ✅ KASRE-PT6 "Guthrie" Turbo-Prop
-* 🟧 J-04 "Swift" Basic Jet Engine
+* ✅ J-04 "Swift" Basic Jet Engine
 * ✅ J-414 "Jaguar" Afterburning Turbofan VTOL
 * ✅ KO-TP12M "Bear" Turboprop
 ### Neist
@@ -17,16 +17,16 @@
 * ✅ CF34-8C
 ### NMB
 ##### Engines
-* 🟧 Nice MKseries Body 117S Turbo engine
-* 🟧 Nice MKseries Body F-414 Turbo engine
-* 🟧 Nice MKseries Body F-415 Turbo engine
-* 🟧 Nice MKseries Body Product30 Turbo engine
-* 🟧 Nice MKseries Body WS-10B TVC Turbo engine
+* ✅ Nice MKseries Body 117S Turbo engine
+* ✅ Nice MKseries Body F-414 Turbo engine
+* ✅ Nice MKseries Body F-415 Turbo engine
+* ✅ Nice MKseries Body Product30 Turbo engine
+* ✅ Nice MKseries Body WS-10B TVC Turbo engine
 ### Moderately Plane Related
 ##### Engines
-* 🟧 J-12 "Cougar" Afterburning Turbofan
-* 🟧 Saturn AL-41F1
-* 🟧 Saturn AL-41F1-938
+* ✅ J-12 "Cougar" Afterburning Turbofan
+* ✅ Saturn AL-41F1
+* ✅ Saturn AL-41F1-938
 * ✅ TFJ-222 "Talon" Afterburning Turbofan
 * ✅ TFJ-229 "Talon" Afterburning Turbofan
 * ✅ TFJ-229-DT-938 "Talon" Afterburning Turbofan
@@ -39,7 +39,7 @@
 * ✅ J-34 "Chevron" High-Bypass Turbofan Engine
 * ✅ J-56 "Lotus" High-Bypass Turbofan Engine
 * ✅ J-85 "Tiger" Afterburning Turbofan
-* 🟥 KT6A "Kitty" Turboprop Engine
+* ✅ KT6A "Kitty" Turboprop Engine
 * ✅ KT6C "Kitty" Turboshaft Engine
 ### Mk3 Expansion
 ##### Engines

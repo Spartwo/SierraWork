@@ -15,7 +15,7 @@ rem  note at the bottom of this file.
 rem =========================================================
 
 set "root=%~dp0"
-set "moddir=%root%gamedata\turd"
+set "moddir=%root%GameData\TURD"
 set "outdir=%root%packaged_mods"
 
 rem tar chokes if a quoted path ends in a backslash right before the
@@ -41,7 +41,7 @@ echo.
 for /d %%D in ("%moddir%\*") do (
     set "modname=%%~nxD"
     echo Zipping "!modname!" ...
-    tar -a -c -f "%outdir%\!modname!.zip" -C "%rootnoslash%" "gamedata\turd\!modname!"
+    tar -a -c -f "%outdir%\!modname!.zip" -C "%rootnoslash%" "GameData\TURD\!modname!"
     if errorlevel 1 (
         echo   FAILED to zip !modname!
     ) else (
@@ -59,9 +59,9 @@ rem   1. Open PowerShell in this folder instead
 rem   2. Run a loop like:
 rem      Get-ChildItem "gamedata\turd" -Directory | ForEach-Object {
 rem          $name = $_.Name
-rem          Compress-Archive -Path "gamedata\turd\$name" -DestinationPath "packaged_mods\$name.zip" -Force
+rem          Compress-Archive -Path "GameData\TURD\$name" -DestinationPath "packaged_mods\$name.zip" -Force
 rem      }
 rem      NOTE: this PowerShell version nests the zip differently
-rem      (top-level folder becomes gamedata\turd\<mod> is NOT
+rem      (top-level folder becomes GameData\TURD\<mod> is NOT
 rem      preserved the same way) - tar is the reliable option.
 rem ---------------------------------------------------------
