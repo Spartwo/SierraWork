@@ -7,21 +7,21 @@
 * ✅ TFE731 Turbofan Engine
 ### SXT
 ##### Engines
-* 🟧 KASRE-PT6 "Guthrie" Turbo-Prop
+* ✅ KASRE-PT6 "Guthrie" Turbo-Prop
 * 🟧 J-04 "Swift" Basic Jet Engine
 * ✅ J-414 "Jaguar" Afterburning Turbofan VTOL
-* 🟧 KO-TP12M "Bear" Turboprop
+* ✅ KO-TP12M "Bear" Turboprop
 ### Neist
 ##### Engines
 * ✅ CF6 Turbofan Jet Engine
 * ✅ CF34-8C
 ### NMB
 ##### Engines
-* 🟧 NIce MKseries Body 117S Turbo engine
-* 🟧 NIce MKseries Body F-414 Turbo engine
-* 🟧 NIce MKseries Body F-415 Turbo engine
-* 🟧 NIce MKseries Body Product30 Turbo engine
-* 🟧 NIce MKseries Body WS-10B TVC Turbo engine
+* 🟧 Nice MKseries Body 117S Turbo engine
+* 🟧 Nice MKseries Body F-414 Turbo engine
+* 🟧 Nice MKseries Body F-415 Turbo engine
+* 🟧 Nice MKseries Body Product30 Turbo engine
+* 🟧 Nice MKseries Body WS-10B TVC Turbo engine
 ### Moderately Plane Related
 ##### Engines
 * 🟧 J-12 "Cougar" Afterburning Turbofan
@@ -136,11 +136,11 @@
 * ✅ NWS-1T
 ### NMB
 ##### ENGINES
-* ✅ NIce MKseries Body 117S Turbo engine
-* ✅ NIce MKseries Body F-414 Turbo engine
-* ✅ NIce MKseries Body F-415 Turbo engine
-* ✅ NIce MKseries Body Product30 Turbo engine
-* ✅ NIce MKseries Body WS-10B TVC Turbo engine
+* ✅ Nice MKseries Body 117S Turbo engine
+* ✅ Nice MKseries Body F-414 Turbo engine
+* ✅ Nice MKseries Body F-415 Turbo engine
+* ✅ Nice MKseries Body Product30 Turbo engine
+* ✅ Nice MKseries Body WS-10B TVC Turbo engine
 ##### COCKPITS
 * ✅ Type22 cockpit with CARET Intake
 * ✅ Type20 cockpit with DIS Intake
@@ -161,6 +161,8 @@
 * ✅ MPR F-14 Tomcat
 * ✅ MPR F-16 Falcon
 * ✅ MPR Tandem Cockpit
+##### MISC
+* ✅ MPR F-14 IRST Pod
 
 ### MOD VERSIONS
 * B9 Aerospace Legacy Parts Pack v6.6.0
