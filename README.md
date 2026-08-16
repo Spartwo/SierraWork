@@ -47,7 +47,7 @@
 * ✅ 131-9K Auxiliary Power Engine
 ### Mk3 Expansion
 ##### Engines
-▪ ✅ JE-8 'Buffalo' Turbofan Engine
+* ✅ JE-8 'Buffalo' Turbofan Engine
 
 # Sierra Commission Tracker
 ✅ Complete | 🟧 Mask in Progress | 🟦 Configration In Progress | ⬛ Identified | 🟥 Untouched
