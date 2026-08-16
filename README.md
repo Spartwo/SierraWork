@@ -41,6 +41,10 @@
 * ✅ J-85 "Tiger" Afterburning Turbofan
 * ✅ KT6A "Kitty" Turboprop Engine
 * ✅ KT6C "Kitty" Turboshaft Engine
+##### Utility
+* ✅ 100-KE Auxiliary Power Engine
+* ✅ 220-KE Auxiliary Power Engine
+* ✅ 131-9K Auxiliary Power Engine
 ### Mk3 Expansion
 ##### Engines
 ▪ ✅ JE-8 'Buffalo' Turbofan Engine
