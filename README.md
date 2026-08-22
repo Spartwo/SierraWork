@@ -183,16 +183,4 @@
 ##### MISC
 * ✅ MPR F-14 IRST Pod
 
-### MOD VERSIONS
-* B9 Aerospace Legacy Parts Pack v6.6.0
-* B9 Aerospace Parts Pack v6.6.0
-* Moderately Plane Related v0.2.6
-* SXTContinued v0.3.31.1
-* Nice MKseries Body v3.9
-* Neist Air Reupdated P9.2
-• AoA Technologies v1.4.1.1
-• Airplane Plus v26.5
-• Mk3 Stockalike Expansion v1.6.1.4
-
-
 These configs are produced under a CC-BY-SA liscence.
