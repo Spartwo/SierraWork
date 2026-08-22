@@ -1,3 +1,18 @@
+# Sierra Commission 3 Tracker
+✅ Complete | 🟧 Mask in Progress | 🟦 Configration In Progress | ⬛ Identified | 🟥 Untouched
+
+### Aviation Cockpits
+##### COCKPITS
+* ✅ Eurofighter Typhoon Cockpit
+* ✅ Interceptor Cockpit
+* ✅ Trainer Jet Cockpit
+* ✅ S39 Cockpit
+* ✅ Mirage 2000 Cockpit
+* ✅ Su30 Cockpit
+* ✅ F8F Bearcat Cockpit
+* ✅ Fw 190 Cockpit
+* ✅ F104 Cockpit
+
 # Sierra Commission 2 Tracker
 ✅ Complete | 🟧 Plume in Progress | ⬛ Identified | 🟥 Untouched
 
@@ -47,7 +62,7 @@
 * ✅ 131-9K Auxiliary Power Engine
 ### Mk3 Expansion
 ##### Engines
-▪ ✅ JE-8 'Buffalo' Turbofan Engine
+* ✅ JE-8 'Buffalo' Turbofan Engine
 
 # Sierra Commission Tracker
 ✅ Complete | 🟧 Mask in Progress | 🟦 Configration In Progress | ⬛ Identified | 🟥 Untouched
