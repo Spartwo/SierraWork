@@ -72,6 +72,7 @@
 * ✅ D30F7 Turbojet Engine
 * ✅ TFE731 Turbofan Engine
 * ✅ F119 Turbojet Engine
+* ✅ Circular Intake
 ### SXT
 ##### ENGINES
 * ✅ J-04 "Swift" Basic Jet Engine
