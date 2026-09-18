@@ -184,4 +184,163 @@
 ##### MISC
 * ✅ MPR F-14 IRST Pod
 
+# Tsingshitao‘s work:
+### SXT
+##### ENGINES
+* ✅ LV-10-37 "Rearguard" Liquid Fuel Engine
+* ✅ LV-10-37-Mid "Rearguard 2" Liquid Fuel Engine
+* ✅ BA-8 "Flare" Liquid Fuel Engine
+* ✅ BA-2 "Flicker" Liquid Fuel Engine
+* ✅ RT-3 "Gnat" Solid Fuel Booster
+* ✅ RE-M1 "Commodore" Liquid Fuel Engine
+* ✅ IX-eFAN "Esteyne" Electric Ducted Fan
+* ✅ NK15V "Mokosh" Engine Block
+* ✅ NK15 "Perun" Engine Block
+* ✅ RK-170 "Tsar-Pushka" Liquid Fuel Engine
+* ✅ J-90 "Goliath" Turbofan Engine
+* ✅ KO-A601 "Monsoon" Prop Engine
+* ✅ Kopo-4e "Pancake" Liquid Fuel Engine
+* ✅ LV-T80 "Robin" Liquid Fuel Engine
+* ✅ Mk2 "Stubbs" Linear Aerospike Engine
+* ✅ LV-NX3 "Phoebus" Atomic Rocket Motor
+* ✅ LV-NX4 "Fat Mun" Atomic Rocket Motor
+* ✅ NK21 "Veles" Engine Block
+* ✅ LV-NRJ "Agamemnon" Nuclear Ramjet Engine
+* ✅ 3.75m Stage 3 Engine
+* ✅ S2 SRB-KD350k "Linebacker" Solid Fuel Booster
+* ✅ BBCV-4350 "Candle Wax" Solid Fuel Booster
+* ✅ LV-405 "Vanguard" Liquid Fuel Engine
+##### COCKPITS
+* ✅ Munar Descent Stage
+* ✅ Munar Excursion Module Ascent Stage
+* ✅ PPD-8 Lander Can
+* ✅ Ke-111 "Kondor" Cockpit
+##### FUSELAGES
+* ✅ PPD-SM1600 Service Module
+* ✅ MK1 Aircraft Fuselage
+* ✅ PPD-SM555 Service Module
+* ✅ PPD-SM250 Service Module
+* ✅ PPD-SM400 Service Module
+* ✅ Kerbodyne KX200-16 Fuel Tank
+* ✅ Kerbodyne KX200-32 Fuel Tank
+* ✅ TVR-500XXL Stack Pent-Adapter
+* ✅ TVR-1600XXL Stack Quad-Adapter
+* ✅ Kerbodyne S5-08000 Tank
+* ✅ Kerbodyne S5 Nose Cone
+* ✅ Oscar-C Fuel Tank
+* ✅ Kerbodyne KX200-64 Fuel Tank
+* ✅ Kn-225 Loading Ramp
+* ✅ XC-32 Inflatable Fuel Tank
+* ✅ OX-32 Inflatable Fuel Tank
+* ✅ XC-32 Inflatable Fuel Tank [Gold]
+* ✅ OX-32-S Inflatable Fuel Tank
+* ✅ XC-32 Light Fuel Tank
+* ✅ XX-32 Light Fuel Tank (Gold)
+* ✅ CTR-20A Capsule Shield
+* ✅ Mk1B Cargo Bay LRG-01
+* ✅ AE-FF0 Airstream Protective Shell (0.625m)
+* ✅ AE-FF5 Airstream Protective Shell (5m)
+* ✅ Mk1 LFO Barrel
+* ✅ TR-32K1 3.75m Stack Decoupler
+* ✅ TR-58K1 5m Stack Decoupler
+* ✅ Kerbolyov 'Tsar V' Large Fuel Tank
+* ✅ Kerbolyov 'Tsar B' Large Fuel Tank
+* ✅ Kerbolyov 'Tsar V' Large Fuel Tank
+* ✅ Kerbolyov 'Tsar A' Large Fuel Tank
+* ✅ TT06-A Launch Stability Enhancer
+* ✅ Structural Fuselage Mk2
+* ✅ Mk3 Cargo Ramp
+* ✅ XC-MTV Structural Super Structure.
+* ✅ OX-MTV Structural Super Structure
+* ✅ XC-MTV Open Four-way
+* ✅ OX-MTV Open Four-way
+* ✅ XC-MTV Partial Super Structure
+* ✅ OX-MTV Partial Super Structure
+* ✅ XC-MTV Partial Super Structure (Short)
+* ✅ OX-MTV Partial Super Structure (Short)
+* ✅ Girder Pipe [Long]
+* ✅ 6-Way Hub
+* ✅ Pipe [Long]
+* ✅ Pipe [Short]
+* ✅ 90' Turn
+* ✅ Boconok-9 Radial Fuel Tank & Heat Radiator
+* ✅ Kerbodyne S5-64000 Tank
+* ✅ TR-50B Stack Decoupler
+* ✅ TR-50A Stack Decoupler
+* ✅ BZ-2500 Radial Attachment Point
+* ✅ Kerbodyne S5-32000 Tank
+* ✅ TR-35C Stack Decoupler
+* ✅ TVR-2000XXL Stack Pent-Adapter
+* ✅ 3.75m Stage 3 Tank
+* ✅ FL-S3 Petal Adapter
+* ✅ BZ-X1 Shrouded Radial Attachment Point
+* ✅ Kerbodyne S3-S2-2430 Adapter
+* ✅ Mk0 Liquid Fuel Fuselage
+* ✅ Kerbodyne S5-16000 Tank
+* ✅ M-1x1 Triangular Structural Panel
+* ✅ M6-1x1 Hexagonal Structural Panel
+* ✅ TG-F1 Radial Fuel Tank
+##### AERODYNAMICS
+* ✅ A.I.R.B.R.A.K.E.S "Panel"
+* ✅ A.I.R.B.R.A.K.E.S "Surf"
+* ✅ A.I.R.B.R.A.K.E.S "Senior"
+* ✅ Mk2 to 1.25m "Su.27" Air Intake
+* ✅ Kerbolyov Grid Fin
+* ✅ Conformal Rocket Cone Mk3
+* ✅ Mk0B Small Modular Wing
+* ✅ Mk0CX Small Folding Wing
+* ✅ Mk0 Small Modular Wing
+##### UTILITY
+* ✅ TG-T2 Wheel Block
+* ✅ TG-W1 Wheel-block
+* ✅ Large Aircraft Fuselage
+* ✅ Large Aircraft Passenger Cabin
+* ✅ CANIOT-7 Crew Cabin
+* ✅ Mk10-XL Inflatable Airbag
+* ✅ Mk-10 Inflatable Airbag
+* ✅ Airlock
+* ✅ PPD-4 Crew Cabin
+* ✅ PPD-6 Crew Cabin
+* ✅ PB-NUK-I Deployable Radioisotope Thermoelectric Generator
+* ✅ PB-NUK-II Deployable Radioisotope Thermoelectric Generator
+* ✅ LK-S3E "Duna-Class" Heavy Habitat
+* ✅ Clamp-O-Tron Docking Port XL.
+* ✅ LF-01A Sea-Float End
+* ✅ LF-01B Sea-Float Midsection
+* ✅ LF-01B Sea-Float Outrigger
+* ✅ ISK-30 Heavy Orbital Habitat
+* ✅ Airliner Window
+* ✅ Centrifuge Habitat 2.5m
+* ✅ OX-HEX Photovoltaic Panels
+* ✅ OX-VL Photovoltaic Array
+* ✅ SPKTR-10 "Lacuga" Crew Cabin
+* ✅ sxt Truck Box
+* ✅ TG-W1 Truck Cabin
+* ✅ TG-T1 Truck Cabin
+* ✅ TG-W3 Truck Middle
+* ✅ TG-T3 Truck Section
+* ✅ TG-W4 Rear Bumper
+* ✅ TG-T4 Truck Rear Bumper
+* ✅ TG-Wheel
+##### MISC
+* ✅ SC-10k Science Sr.
+* ✅ Probodobodyne JKSS
+* ✅ Extendable RCS Boom
+* ✅ Tycho Magnetic Anomaly 1
+* ✅ DEPRECATED - Tycho Magnetic Anomaly 1
+* ✅ SC-XL10 Remote Guidance Unit
+* ✅ Probodobodyne QUBC "Warbler"
+* ✅ Kommunotronski 16
+* ✅ Heat Shield (5m)
+* ✅ Probodobodyne HECS-Ranger Advanced Probe-Core
+* ✅ O-10 "Puff" Orbital Manoeuvering System
+* ✅ O-40 "Puff" Orbital Manoeuvering System
+* ✅ Inline Mystery Goo Containment Unit
+* ✅ Large Linear RCS Array
+* ✅ Sensor and Transmitter Array Nose Cone
+* ✅ Probodobodyne Dontstayputnik
+* ✅ Communotron DTS-R4
+* ✅ KDB-885 Attitude Control System
+
+
 These configs are produced under a CC-BY-SA liscence.
