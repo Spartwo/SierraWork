@@ -13,7 +13,7 @@
 * 🟧 Candid Cockpit
 * 🟧 Blackhawk Cockpit
 ##### ENGINES
-* 🟦 Size1Mk3 Flat VTOL-H 
+* 🟧 Size1Mk3 Flat VTOL-H 
 * 🟧 Mk0 Radial Engine
 ##### AERO
 * 🟦 Mk2 H Tail
