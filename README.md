@@ -1,3 +1,49 @@
+# Sierra Commission 4 Tracker
+✅ Complete | 🟧 Mask in Progress | 🟦 Configration In Progress | ⬛ Identified | 🟥 Untouched
+
+### Cold War Aerospace
+##### COCKPITS
+* ⬛ Starlifter Cockpit
+* ⬛ Fulcrum Cockpit
+* ⬛ Forger Cockpit
+* ⬛ Harrier Cockpit
+* ⬛ Fighting Falcon Cockpit
+* ⬛ Helix A Cockpit
+* ⬛ Helix B Cockpit
+* ⬛ Candid Cockpit
+* ⬛ Blackhawk Cockpit
+##### ENGINES
+* ⬛ Size1Mk3 Flat VTOL-H 
+* ⬛ Mk0 Radial Engine
+##### AERO
+* ⬛ Mk2 H Tail
+* ⬛ Mk2 H Tail Boom
+* ⬛ Mk1 H Fuselages
+* ⬛ Mk1 Nosecone
+* ⬛ Mk1 S-Duct Intake
+##### MISC
+* ⬛ Size3 Cargo
+* ⬛ Size3 Cargo
+* ⬛ Size3 Cargo
+* ⬛ Size3 Cargo Ramp
+* ⬛ Size2p5 Cargo Ramp
+* ⬛ Size1p5 mk3 Utility Module
+* ⬛ Size1p5 mk3 Flat Utiltiy Module
+* ⬛ Size1p5 mk3 Adapter
+* ⬛ Size1p5 mk3 Assault Module
+* ⬛ Size1p5 mk3 Crew Module
+
+### NMB
+##### COCKPITS
+* ⬛ C919 Cockpit
+* ⬛ Advanced Flanker Cockpit
+* ⬛ Super Flanker Cockpit
+* ⬛ J-10 Cockpit
+##### AERO
+* ⬛ Advanced Flanker Intake
+* ⬛ Advanced Flanker Tail
+* ⬛ Super Flanker Intake
+
 # Sierra Commission 3 Tracker
 ✅ Complete | 🟧 Mask in Progress | 🟦 Configration In Progress | ⬛ Identified | 🟥 Untouched
 
@@ -17,28 +63,28 @@
 ✅ Complete | 🟧 Plume in Progress | ⬛ Identified | 🟥 Untouched
 
 ### B9
-##### Engines
+##### ENGINES
 * ✅ CMF56 Turbofan Engine
 * ✅ TFE731 Turbofan Engine
 ### SXT
-##### Engines
+##### ENGINES
 * ✅ KASRE-PT6 "Guthrie" Turbo-Prop
 * ✅ J-04 "Swift" Basic Jet Engine
 * ✅ J-414 "Jaguar" Afterburning Turbofan VTOL
 * ✅ KO-TP12M "Bear" Turboprop
 ### Neist
-##### Engines
+##### ENGINES
 * ✅ CF6 Turbofan Jet Engine
 * ✅ CF34-8C
 ### NMB
-##### Engines
+##### ENGINES
 * ✅ Nice MKseries Body 117S Turbo engine
 * ✅ Nice MKseries Body F-414 Turbo engine
 * ✅ Nice MKseries Body F-415 Turbo engine
 * ✅ Nice MKseries Body Product30 Turbo engine
 * ✅ Nice MKseries Body WS-10B TVC Turbo engine
 ### Moderately Plane Related
-##### Engines
+##### ENGINES
 * ✅ J-12 "Cougar" Afterburning Turbofan
 * ✅ Saturn AL-41F1
 * ✅ Saturn AL-41F1-938
@@ -46,22 +92,22 @@
 * ✅ TFJ-229 "Talon" Afterburning Turbofan
 * ✅ TFJ-229-DT-938 "Talon" Afterburning Turbofan
 ### AoATech
-##### Engines
+##### ENGINES
 * ✅ MK22-V Afterburning Turbofan Engine
 ### Airplane Plus
-##### Engines
+##### ENGINES
 * ✅ J-119 "Cheetah" Afterburning Tubofan
 * ✅ J-34 "Chevron" High-Bypass Turbofan Engine
 * ✅ J-56 "Lotus" High-Bypass Turbofan Engine
 * ✅ J-85 "Tiger" Afterburning Turbofan
 * ✅ KT6A "Kitty" Turboprop Engine
 * ✅ KT6C "Kitty" Turboshaft Engine
-##### Utility
+##### UTILITY
 * ✅ 100-KE Auxiliary Power Engine
 * ✅ 220-KE Auxiliary Power Engine
 * ✅ 131-9K Auxiliary Power Engine
 ### Mk3 Expansion
-##### Engines
+##### ENGINES
 * ✅ JE-8 'Buffalo' Turbofan Engine
 
 # Sierra Commission Tracker
