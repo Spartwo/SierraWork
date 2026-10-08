@@ -3,49 +3,49 @@
 
 ### Cold War Aerospace
 ##### COCKPITS
-* ⬛ Starlifter Cockpit
-* ⬛ Fulcrum Cockpit
-* ⬛ Forger Cockpit
-* ⬛ Harrier Cockpit
-* ⬛ Fighting Falcon Cockpit
-* ⬛ Helix A Cockpit
-* ⬛ Helix B Cockpit
-* ⬛ Candid Cockpit
-* ⬛ Blackhawk Cockpit
+* 🟧 Starlifter Cockpit
+* 🟧 Fulcrum Cockpit
+* 🟧 Forger Cockpit
+* 🟧 Harrier Cockpit
+* 🟧 Fighting Falcon Cockpit
+* 🟧 Helix A Cockpit
+* 🟧 Helix B Cockpit
+* 🟧 Candid Cockpit
+* 🟧 Blackhawk Cockpit
 ##### ENGINES
-* ⬛ Size1Mk3 Flat VTOL-H 
-* ⬛ Mk0 Radial Engine
+* 🟦 Size1Mk3 Flat VTOL-H 
+* 🟧 Mk0 Radial Engine
 ##### AERO
-* ⬛ Mk2 H Tail
-* ⬛ Mk2 H Tail Boom
-* ⬛ Mk1 H Fuselages
-* ⬛ Mk1 Nosecone
-* ⬛ Mk1 S-Duct Intake
+* 🟦 Mk2 H Tail
+* 🟦 Mk2 H Tail Boom
+* 🟦 Mk1 H Fuselages
+* 🟦 Mk1 Nosecone
+* 🟦 Mk1 S-Duct Intake
 ##### MISC
-* ⬛ Size3 Cargo
-* ⬛ Size3 Cargo
-* ⬛ Size3 Cargo
-* ⬛ Size3 Cargo Ramp
-* ⬛ Size2p5 Cargo Ramp
-* ⬛ Size1p5 mk3 Utility Module
-* ⬛ Size1p5 mk3 Flat Utiltiy Module
-* ⬛ Size1p5 mk3 Adapter
-* ⬛ Size1p5 mk3 Assault Module
-* ⬛ Size1p5 mk3 Crew Module
-* ⬛ Helix Power Supply
-* ⬛ Blackhawk Power Supply
+* 🟦 Size3 Cargo Long
+* 🟦 Size3 Cargo Medium
+* 🟦 Size3 Cargo Short
+* 🟦 Size3 Cargo Ramp
+* 🟦 Size2p5 Cargo Ramp
+* 🟦 Size1p5 mk3 Utility Module
+* 🟦 Size1p5 mk3 Flat Utiltiy Module
+* 🟦 Size1p5 mk3 Adapter
+* 🟦 Size1p5 mk3 Assault Module
+* 🟦 Size1p5 mk3 Crew Module
+* 🟦 Helix Power Supply
+* 🟦 Blackhawk Power Supply
   
 
 ### NMB
 ##### COCKPITS
-* ⬛ C919 Cockpit
-* ⬛ Advanced Flanker Cockpit
-* ⬛ Super Flanker Cockpit
-* ⬛ J-10 Cockpit
+* 🟧 C919 Cockpit
+* 🟧 Advanced Flanker Cockpit
+* 🟧 Super Flanker Cockpit
+* 🟧 J-10 Cockpit
 ##### AERO
-* ⬛ Advanced Flanker Intake
-* ⬛ Advanced Flanker Tail
-* ⬛ Super Flanker Intake
+* 🟧 Advanced Flanker Intake
+* 🟧 Advanced Flanker Tail
+* 🟧 Super Flanker Intake
 
 # Sierra Commission 3 Tracker
 ✅ Complete | 🟧 Mask in Progress | 🟦 Configration In Progress | ⬛ Identified | 🟥 Untouched
