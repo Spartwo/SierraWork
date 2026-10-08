@@ -32,6 +32,9 @@
 * ⬛ Size1p5 mk3 Adapter
 * ⬛ Size1p5 mk3 Assault Module
 * ⬛ Size1p5 mk3 Crew Module
+* ⬛ Helix Power Supply
+* ⬛ Blackhawk Power Supply
+  
 
 ### NMB
 ##### COCKPITS
