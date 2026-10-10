@@ -21,20 +21,23 @@
 * 🟦 Mk1 H Fuselages
 * 🟦 Mk1 Nosecone
 * 🟦 Mk1 S-Duct Intake
-##### MISC
-* 🟥 Size3 Cargo Long
-* 🟥 Size3 Cargo Medium
-* 🟥 Size3 Cargo Short
-* 🟥 Size3 Cargo Ramp
-* 🟥 Size2p5 Cargo Ramp
+##### CARGO
+* ✅ Size3 Cargo Long/Medium/Short
+* ✅ Size3-Mk3 Cargo Adapter Short
+* ✅ Size3-Mk3 Cargo Adapter/Slanted
+* ✅ Size3 Cargo Ramp
+* ✅ Size2p5 Cargo Long/Medium/Short
+* ✅ Size2p5-Size3 Cargo Adapter/Slanted
+* ✅ Size2p5 Cargo Ramp
 * 🟦 Size1p5 mk3 Utility Module
-* 🟦 Size1p5 mk3 Flat Utiltiy Module
+* 🟦 Size1p5 mk3 Flat Utility Module
 * 🟦 Size1p5 mk3 Adapter
 * 🟦 Size1p5 mk3 Assault Module
 * 🟦 Size1p5 mk3 Crew Module
-* 🟦 Helix Power Supply
-* 🟦 Blackhawk Power Supply
-  
+##### MISC
+* ✅ Helix Power Supply
+* ✅ Blackhawk Power Supply
+* 🟦 Size1Mk3 Avionics Hub
 
 ### NMB
 ##### COCKPITS
