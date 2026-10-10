@@ -18,9 +18,9 @@
 ##### AERO
 * ✅ Mk2 H Tail
 * ✅ Mk2 H Tail Boom
-* 🟦 Mk1 H Fuselages
-* 🟦 Mk1 Nosecone
-* 🟦 Mk1 S-Duct Intake
+* ✅ Mk1 H Fuselages
+* ✅ Mk1 Nosecone
+* ✅ Mk1 S-Duct Intake
 ##### CARGO
 * ✅ Size3 Cargo Long/Medium/Short
 * ✅ Size3-Mk3 Cargo Adapter Short
@@ -37,7 +37,6 @@
 ##### MISC
 * ✅ Helix Power Supply
 * ✅ Blackhawk Power Supply
-* 🟦 Size1Mk3 Avionics Hub
 
 ### NMB
 ##### COCKPITS
