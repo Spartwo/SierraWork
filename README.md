@@ -7,7 +7,7 @@
 * 🟧 Fulcrum Cockpit
 * 🟧 Forger Cockpit
 * 🟧 Harrier Cockpit
-* 🟧 Fighting Falcon Cockpit
+* ✅ Fighting Falcon Cockpit
 * 🟧 Helix A Cockpit
 * 🟧 Helix B Cockpit
 * 🟧 Candid Cockpit
@@ -44,7 +44,7 @@
 * 🟧 J-10 Cockpit
 ##### AERO
 * 🟧 Advanced Flanker Intake
-* 🟧 Advanced Flanker Tail
+* ✅ Advanced Flanker Tail
 * 🟧 Super Flanker Intake
 
 # Sierra Commission 3 Tracker
