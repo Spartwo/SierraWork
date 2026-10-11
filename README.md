@@ -14,7 +14,6 @@
 * ✅ Starlifter Cockpit
 ##### ENGINES
 * ✅ Size1Mk3 Flat VTOL-H 
-* ✅ Mk0 Radial Engine
 ##### AERO
 * ✅ Mk2 H Tail
 * ✅ Mk2 H Tail Boom
