@@ -1,51 +1,56 @@
 # Sierra Commission 4 Tracker
-✅ Complete | 🟧 Mask in Progress | 🟦 Configration In Progress | ⬛ Identified | 🟥 Untouched
+✅ Complete | 🟧 Mask in Progress | 🟦 Configuration In Progress | ⬛ Identified | 🟥 Untouched
 
 ### Cold War Aerospace
 ##### COCKPITS
-* ⬛ Starlifter Cockpit
-* ⬛ Fulcrum Cockpit
-* ⬛ Forger Cockpit
-* ⬛ Harrier Cockpit
-* ⬛ Fighting Falcon Cockpit
-* ⬛ Helix A Cockpit
-* ⬛ Helix B Cockpit
-* ⬛ Candid Cockpit
-* ⬛ Blackhawk Cockpit
+* ✅ Fulcrum Cockpit
+* ✅ Fighting Falcon Cockpit
+* ✅ Forger Cockpit
+* ✅ Harrier Cockpit
+* ✅ Blackhawk Cockpit
+* ✅ Helix A Cockpit
+* ✅ Helix B Cockpit
+* ✅ Candid Cockpit
+* ✅ Starlifter Cockpit
 ##### ENGINES
-* ⬛ Size1Mk3 Flat VTOL-H 
-* ⬛ Mk0 Radial Engine
+* ✅ Size1Mk3 Flat VTOL-H 
+* ✅ Mk0 Radial Engine
 ##### AERO
-* ⬛ Mk2 H Tail
-* ⬛ Mk2 H Tail Boom
-* ⬛ Mk1 H Fuselages
-* ⬛ Mk1 Nosecone
-* ⬛ Mk1 S-Duct Intake
+* ✅ Mk2 H Tail
+* ✅ Mk2 H Tail Boom
+* ✅ Mk1 H Fuselages
+* ✅ Mk1 Nosecone
+* ✅ Mk1 S-Duct Intake
+##### CARGO
+* ✅ Size3 Cargo Long/Medium/Short
+* ✅ Size3-Mk3 Cargo Adapter Short
+* ✅ Size3-Mk3 Cargo Adapter/Slanted
+* ✅ Size3 Cargo Ramp
+* ✅ Size2p5 Cargo Long/Medium/Short
+* ✅ Size2p5-Size3 Cargo Adapter/Slanted
+* ✅ Size2p5 Cargo Ramp
+* ✅ Size1p5 mk3 Utility Module
+* ✅ Size1p5 mk3 Flat Utility Module
+* ✅ Size1p5 mk3 Adapter/Slanted
+* ✅ Size1p5 mk3 Assault Module
+* ✅ Size1p5 mk3 Crew Module
 ##### MISC
-* ⬛ Size3 Cargo
-* ⬛ Size3 Cargo
-* ⬛ Size3 Cargo
-* ⬛ Size3 Cargo Ramp
-* ⬛ Size2p5 Cargo Ramp
-* ⬛ Size1p5 mk3 Utility Module
-* ⬛ Size1p5 mk3 Flat Utiltiy Module
-* ⬛ Size1p5 mk3 Adapter
-* ⬛ Size1p5 mk3 Assault Module
-* ⬛ Size1p5 mk3 Crew Module
+* ✅ Helix Power Supply
+* ✅ Blackhawk Power Supply
 
 ### NMB
 ##### COCKPITS
-* ⬛ C919 Cockpit
-* ⬛ Advanced Flanker Cockpit
-* ⬛ Super Flanker Cockpit
-* ⬛ J-10 Cockpit
+* ✅ C919 Cockpit
+* ✅ Advanced Flanker Cockpit
+* ✅ Super Flanker Cockpit
+* ✅ J-10 Cockpit
 ##### AERO
-* ⬛ Advanced Flanker Intake
-* ⬛ Advanced Flanker Tail
-* ⬛ Super Flanker Intake
+* ✅ Advanced Flanker Intake
+* ✅ Advanced Flanker Tail
+* ✅ Super Flanker Intake
 
 # Sierra Commission 3 Tracker
-✅ Complete | 🟧 Mask in Progress | 🟦 Configration In Progress | ⬛ Identified | 🟥 Untouched
+✅ Complete | 🟧 Mask in Progress | 🟦 Configuration In Progress | ⬛ Identified | 🟥 Untouched
 
 ### Aviation Cockpits
 ##### COCKPITS
@@ -111,7 +116,7 @@
 * ✅ JE-8 'Buffalo' Turbofan Engine
 
 # Sierra Commission Tracker
-✅ Complete | 🟧 Mask in Progress | 🟦 Configration In Progress | ⬛ Identified | 🟥 Untouched
+✅ Complete | 🟧 Mask in Progress | 🟦 Configuration In Progress | ⬛ Identified | 🟥 Untouched
 
 ### B9
 * ✅ CMF56 Turbofan Engine 
@@ -230,4 +235,4 @@
 ##### MISC
 * ✅ MPR F-14 IRST Pod
 
-These configs are produced under a CC-BY-SA liscence.
+These configs are produced under a CC-BY-SA licence.
