@@ -1,20 +1,19 @@
 # Sierra Commission 4 Tracker
-✅ Complete | 🟧 Mask in Progress | 🟦 Configration In Progress | ⬛ Identified | 🟥 Untouched
+✅ Complete | 🟧 Mask in Progress | 🟦 Configuration In Progress | ⬛ Identified | 🟥 Untouched
 
 ### Cold War Aerospace
 ##### COCKPITS
 * ✅ Fulcrum Cockpit
 * ✅ Fighting Falcon Cockpit
-* 🟧 Forger Cockpit
-* 🟧 Harrier Cockpit
-* 🟧 Blackhawk Cockpit
-* 🟧 Helix A Cockpit
-* 🟧 Helix B Cockpit
-* 🟧 Candid Cockpit
-* 🟧 Starlifter Cockpit
+* ✅ Forger Cockpit
+* ✅ Harrier Cockpit
+* ✅ Blackhawk Cockpit
+* ✅ Helix A Cockpit
+* ✅ Helix B Cockpit
+* ✅ Candid Cockpit
+* ✅ Starlifter Cockpit
 ##### ENGINES
-* 🟧 Size1Mk3 Flat VTOL-H 
-* 🟧 Mk0 Radial Engine
+* ✅ Size1Mk3 Flat VTOL-H 
 ##### AERO
 * ✅ Mk2 H Tail
 * ✅ Mk2 H Tail Boom
@@ -29,11 +28,11 @@
 * ✅ Size2p5 Cargo Long/Medium/Short
 * ✅ Size2p5-Size3 Cargo Adapter/Slanted
 * ✅ Size2p5 Cargo Ramp
-* 🟦 Size1p5 mk3 Utility Module
-* 🟦 Size1p5 mk3 Flat Utility Module
-* 🟦 Size1p5 mk3 Adapter
-* 🟦 Size1p5 mk3 Assault Module
-* 🟦 Size1p5 mk3 Crew Module
+* ✅ Size1p5 mk3 Utility Module
+* ✅ Size1p5 mk3 Flat Utility Module
+* ✅ Size1p5 mk3 Adapter/Slanted
+* ✅ Size1p5 mk3 Assault Module
+* ✅ Size1p5 mk3 Crew Module
 ##### MISC
 * ✅ Helix Power Supply
 * ✅ Blackhawk Power Supply
@@ -50,7 +49,7 @@
 * ✅ Super Flanker Intake
 
 # Sierra Commission 3 Tracker
-✅ Complete | 🟧 Mask in Progress | 🟦 Configration In Progress | ⬛ Identified | 🟥 Untouched
+✅ Complete | 🟧 Mask in Progress | 🟦 Configuration In Progress | ⬛ Identified | 🟥 Untouched
 
 ### Aviation Cockpits
 ##### COCKPITS
@@ -116,7 +115,7 @@
 * ✅ JE-8 'Buffalo' Turbofan Engine
 
 # Sierra Commission Tracker
-✅ Complete | 🟧 Mask in Progress | 🟦 Configration In Progress | ⬛ Identified | 🟥 Untouched
+✅ Complete | 🟧 Mask in Progress | 🟦 Configuration In Progress | ⬛ Identified | 🟥 Untouched
 
 ### B9
 * ✅ CMF56 Turbofan Engine 
@@ -235,4 +234,4 @@
 ##### MISC
 * ✅ MPR F-14 IRST Pod
 
-These configs are produced under a CC-BY-SA liscence.
+These configs are produced under a CC-BY-SA licence.
